@@ -32,11 +32,15 @@ level.
 
 [![IDMarinas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=idmarinas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 💼 Some of my projects
+[//]: # (## 💼 Some of my projects)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=user-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=common-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=advertising-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ()
+
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=user-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=common-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=advertising-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 
 <hr />
@@ -64,7 +68,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
