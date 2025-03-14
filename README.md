@@ -26,22 +26,15 @@ language that catches my attention, always learning and always trying to improve
 **Note**: Top languages is only a metric of the languages my public code repos and doesn't reflect experience or skill
 level.
 
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=idmarinas&theme=dracula&border_radius=5&card_height=215)](https://git.io/streak-stats)
-
-[![IDMarinas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=idmarinas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[//]: # (## 💼 Some of my projects)
+[//]: # (## 🔥 Streak Stats)
 
 [//]: # ()
 
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=user-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=idmarinas&theme=dracula&border_radius=5&card_height=215&#41;]&#40;https://git.io/streak-stats&#41;)
 
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=common-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+[//]: # ()
 
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=advertising-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
+[//]: # ([![IDMarinas's github activity graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=idmarinas&theme=dracula&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
 
 <hr />
 
@@ -55,6 +48,15 @@ level.
 [![Liberapay - Donate](https://img.shields.io/liberapay/receives/IDMarinas.svg?style=for-the-badge&logo=liberapay&cacheSeconds=86400)](https://liberapay.com/IDMarinas/donate)
 [![Static Badge](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/idmarinas)
 
+<hr />
+
+## 💼 Some of my projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=ui-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=common-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=advertising-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 </div>
 
