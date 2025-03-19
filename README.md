@@ -53,11 +53,14 @@ level.
 ## 💼 Some of my projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=ui-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=settings-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=seo-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=common-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+## 💬 Social
 
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=advertising-bundle&description_lines_count=2&theme=dracula&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
+[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/idmarinas)
+[![Discord](https://img.shields.io/badge/Discord-IDMarinas-blue?logo=discord&style=for-the-badge&logoColor=white)](https://discord.gg/FXEZqpF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IDMarinas-%230077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/idmarinas)
 </div>
 
 <!--
