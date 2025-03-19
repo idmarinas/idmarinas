@@ -52,9 +52,9 @@ level.
 
 ## 💼 Some of my projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=ui-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=settings-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=seo-bundle&description_lines_count=2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=ui-bundle&description_lines_count=2&theme=dracula)](https://github.com/idmarinas/ui-bundle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=settings-bundle&description_lines_count=2&theme=dracula)](https://github.com/idmarinas/settings-bundle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idmarinas&repo=seo-bundle&description_lines_count=2&theme=dracula)](https://github.com/idmarinas/seo-bundle)
 
 ## 💬 Social
 
